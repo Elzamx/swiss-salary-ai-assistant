@@ -1,0 +1,801 @@
+job_title,years_experience,education,location,skills,salary_chf
+Business Analyst,2,Bachelor,Other CH,python;spark;java;machine learning;sql,114908.0
+Data Engineer,3,Master,Bern,sql;power bi,112177.0
+ML Engineer,4,Master,Bern,spark;nlp;cloud,136972.0
+IT Consultant,1,Bachelor,Zurich,cloud;python;java;docker;nlp,119700.0
+IT Consultant,2,PhD,Bern,sql;docker;cloud;machine learning;power bi,110684.0
+Software Developer,10,Bachelor,Bern,power bi;docker,140944.0
+IT Consultant,11,Apprenticeship,Basel,java;machine learning;project management;spark;nlp;power bi,140520.0
+Data Engineer,5,Master,Other CH,spark;python;docker;sql;nlp;power bi,132911.0
+IT Consultant,10,Bachelor,Other CH,sql;cloud;project management;docker,138616.0
+IT Consultant,2,Master,Geneva,cloud;spark;docker,116827.0
+Business Analyst,9,Bachelor,Other CH,project management;cloud;nlp;java,120199.0
+Software Developer,7,Master,Geneva,spark;cloud;nlp;sql,166120.0
+Software Developer,7,Master,Geneva,python;java;docker;spark,145878.0
+Data Scientist,2,Bachelor,Bern,python;machine learning,129449.0
+Data Scientist,6,Master,Other CH,sql;docker,124424.0
+ML Engineer,3,Bachelor,Basel,sql;power bi;cloud;java,137343.0
+Business Analyst,17,Master,Zurich,spark;machine learning;docker;python;sql;java,177989.0
+ML Engineer,25,Master,Basel,sql;java,217808.0
+Business Analyst,14,Bachelor,Bern,project management;machine learning,151286.0
+Data Engineer,2,Bachelor,Zurich,machine learning;python,129625.0
+Business Analyst,1,Master,Remote CH,power bi;python,103464.0
+IT Consultant,3,Master,Zurich,project management;sql;docker;python;machine learning,125732.0
+ML Engineer,8,PhD,Zurich,cloud;python;nlp;power bi,155020.0
+Business Analyst,9,Bachelor,Zurich,power bi;cloud,145399.0
+ML Engineer,12,Master,Geneva,docker;spark;nlp;python;project management;sql,165920.0
+Data Scientist,4,Apprenticeship,Zurich,power bi;project management;sql,121520.0
+ML Engineer,9,Master,Other CH,power bi;docker;nlp,146793.0
+Business Analyst,7,Apprenticeship,Other CH,java;docker;power bi;machine learning;project management,109226.0
+Software Developer,12,Bachelor,Geneva,cloud;power bi;sql;spark;nlp;java,168820.0
+Data Scientist,8,Bachelor,Zurich,project management;machine learning;sql;power bi;cloud;nlp,153214.0
+Data Scientist,25,Apprenticeship,Bern,docker;java;sql;nlp;power bi,200559.0
+ML Engineer,19,Master,Remote CH,project management;python;machine learning;cloud;nlp;sql,188220.0
+Business Analyst,4,PhD,Other CH,docker;java;machine learning;python;power bi;nlp,134401.0
+ML Engineer,1,PhD,Other CH,project management;python,126134.0
+IT Consultant,4,Bachelor,Basel,nlp;sql;spark,117604.0
+Data Scientist,7,Master,Bern,sql;python;java,132670.0
+Data Scientist,7,Bachelor,Other CH,project management;power bi;python;docker,131690.0
+Data Engineer,2,Bachelor,Bern,sql;cloud;nlp;java;machine learning,113877.0
+IT Consultant,16,Bachelor,Zurich,docker;machine learning,172889.0
+Data Scientist,4,Master,Bern,spark;sql,123631.0
+ML Engineer,9,PhD,Zurich,power bi;spark,117240.0
+Software Developer,4,PhD,Basel,cloud;nlp;machine learning;sql;power bi;docker,138730.0
+Business Analyst,4,Master,Geneva,docker;spark;nlp;project management,131221.0
+Data Scientist,1,Apprenticeship,Basel,sql;power bi;python;docker;machine learning;nlp,119789.0
+Software Developer,7,Bachelor,Remote CH,machine learning;cloud;sql,132566.0
+Data Engineer,4,Bachelor,Basel,sql;java;power bi;spark,116995.0
+IT Consultant,9,Master,Zurich,machine learning;sql;python;docker,140216.0
+Data Engineer,2,Master,Zurich,spark;cloud,111650.0
+Business Analyst,0,Master,Geneva,power bi;docker;java,102399.0
+Business Analyst,10,Apprenticeship,Geneva,python;project management,149504.0
+IT Consultant,9,Apprenticeship,Basel,docker;power bi;machine learning;python,135097.0
+Data Engineer,3,Bachelor,Zurich,sql;python;project management,105746.0
+IT Consultant,2,Apprenticeship,Zurich,sql;nlp;cloud,111670.0
+IT Consultant,2,Apprenticeship,Zurich,docker;power bi;nlp;project management,114782.0
+Data Scientist,6,Master,Remote CH,project management;java;nlp;python;machine learning;sql,158913.0
+IT Consultant,4,Master,Basel,power bi;project management,100736.0
+Business Analyst,11,Master,Basel,sql;java;nlp;cloud,149487.0
+Data Engineer,3,Master,Zurich,spark;sql;cloud;python;power bi;docker,155402.0
+Software Developer,10,Master,Zurich,docker;python;java;nlp;cloud;sql,172046.0
+Software Developer,2,Master,Geneva,nlp;docker;cloud;power bi;spark;sql,127198.0
+Business Analyst,3,Apprenticeship,Other CH,machine learning;cloud;power bi;sql,97732.0
+Business Analyst,6,Apprenticeship,Bern,spark;nlp;docker,118127.0
+IT Consultant,1,Bachelor,Remote CH,cloud;spark;project management;nlp,107910.0
+ML Engineer,4,Bachelor,Zurich,spark;sql;machine learning;java,143634.0
+Data Scientist,11,Master,Basel,spark;java;docker;nlp;machine learning,160051.0
+Data Engineer,8,Master,Remote CH,nlp;power bi;project management;machine learning;cloud,182585.0
+Data Scientist,6,Bachelor,Geneva,java;sql;python,120970.0
+Data Engineer,2,Bachelor,Zurich,project management;java;nlp;python,114243.0
+Data Engineer,2,Bachelor,Remote CH,python;java;project management;nlp;cloud;machine learning,130495.0
+IT Consultant,6,Apprenticeship,Remote CH,docker;spark,122991.0
+IT Consultant,1,Master,Zurich,java;cloud;nlp;python;machine learning;spark,159761.0
+Data Engineer,9,Bachelor,Zurich,java;project management;nlp;python,163348.0
+ML Engineer,6,Master,Zurich,nlp;java;spark;sql;project management,151725.0
+Business Analyst,12,Bachelor,Basel,nlp;machine learning;cloud,151019.0
+Data Scientist,4,Master,Zurich,nlp;cloud;machine learning,129908.0
+Software Developer,21,Master,Geneva,power bi;sql;project management,180293.0
+Business Analyst,17,PhD,Remote CH,cloud;machine learning;project management;sql;nlp;spark,188626.0
+Data Engineer,6,Apprenticeship,Zurich,python;machine learning;power bi;nlp;docker;project management,145164.0
+Software Developer,3,Bachelor,Geneva,python;power bi;project management;java,135217.0
+Data Scientist,6,Master,Bern,power bi;machine learning;python;docker;project management,146950.0
+Software Developer,4,Bachelor,Remote CH,java;cloud;power bi;nlp;sql;python,147375.0
+IT Consultant,3,Master,Zurich,cloud;nlp;spark,109830.0
+Business Analyst,1,Apprenticeship,Remote CH,docker;machine learning;python;sql,118038.0
+ML Engineer,15,Bachelor,Bern,machine learning;nlp,177126.0
+IT Consultant,3,Apprenticeship,Basel,java;nlp;cloud;sql;docker;power bi,105368.0
+ML Engineer,3,Apprenticeship,Other CH,python;nlp,120825.0
+Data Engineer,2,Apprenticeship,Zurich,machine learning;spark;project management;cloud;java,148963.0
+Software Developer,2,Master,Basel,machine learning;java;sql;power bi;nlp,140804.0
+ML Engineer,8,PhD,Zurich,cloud;python;spark,158117.0
+ML Engineer,5,Apprenticeship,Geneva,java;machine learning;docker,117960.0
+ML Engineer,4,Apprenticeship,Geneva,cloud;project management;java,123519.0
+Data Engineer,6,Master,Bern,power bi;java;sql;python,150621.0
+Data Engineer,5,Bachelor,Basel,machine learning;java;sql;spark;power bi,148040.0
+Software Developer,12,Apprenticeship,Zurich,sql;spark;java;python;project management;power bi,143818.0
+IT Consultant,2,Bachelor,Zurich,docker;power bi,128992.0
+Software Developer,7,Bachelor,Basel,java;docker,121075.0
+ML Engineer,9,Master,Zurich,java;machine learning;nlp,151121.0
+Software Developer,2,Apprenticeship,Zurich,power bi;cloud;docker;java;spark,124075.0
+Data Scientist,4,Bachelor,Zurich,power bi;docker;cloud,128552.0
+Software Developer,6,Master,Zurich,docker;python;cloud;spark;java,157383.0
+Software Developer,6,Master,Geneva,spark;cloud,144152.0
+Data Engineer,4,PhD,Bern,project management;java;python;machine learning,114507.0
+Software Developer,4,Bachelor,Zurich,power bi;cloud;project management;nlp;machine learning,130144.0
+Business Analyst,1,Master,Other CH,docker;python;nlp,126219.0
+Business Analyst,3,Bachelor,Remote CH,machine learning;cloud;spark;python;power bi,99167.0
+Business Analyst,15,Master,Zurich,java;project management,138896.0
+Business Analyst,1,Bachelor,Basel,power bi;sql;project management,99904.0
+IT Consultant,9,PhD,Remote CH,spark;java;docker;cloud;python,165748.0
+Data Engineer,9,Master,Zurich,power bi;nlp;spark,151612.0
+Data Scientist,1,Bachelor,Basel,java;power bi;cloud;python;docker;project management,129938.0
+ML Engineer,11,Master,Remote CH,docker;power bi;cloud,154096.0
+Data Scientist,11,Master,Bern,cloud;project management;machine learning;docker;java;python,176757.0
+ML Engineer,7,PhD,Bern,project management;machine learning;spark;python;docker,172187.0
+ML Engineer,5,Bachelor,Zurich,sql;power bi;project management;python;machine learning,146081.0
+Data Scientist,0,Master,Zurich,machine learning;project management;python,142451.0
+Data Engineer,1,Bachelor,Basel,power bi;sql;python,113281.0
+Software Developer,1,Bachelor,Zurich,python;project management;sql;java;spark,117397.0
+IT Consultant,2,Bachelor,Zurich,machine learning;cloud;project management;power bi;sql,137948.0
+Business Analyst,2,Bachelor,Basel,cloud;nlp;sql;python,113746.0
+Data Engineer,3,Master,Basel,nlp;python;project management;java,118204.0
+Data Engineer,3,Bachelor,Zurich,power bi;nlp;machine learning;cloud;project management,145054.0
+Software Developer,3,Master,Other CH,power bi;machine learning;python;nlp,104732.0
+Software Developer,6,Bachelor,Zurich,spark;docker;power bi;sql;project management;java,135024.0
+Business Analyst,12,Bachelor,Geneva,python;java;project management,139536.0
+Business Analyst,8,Master,Zurich,power bi;spark;sql;cloud;python,169712.0
+IT Consultant,14,Master,Remote CH,sql;spark;python;nlp;machine learning;docker,164925.0
+IT Consultant,21,Master,Zurich,java;project management;cloud;python;spark,198526.0
+ML Engineer,3,Master,Zurich,spark;python;docker;project management;cloud,145472.0
+IT Consultant,0,Bachelor,Basel,python;spark;docker;machine learning;nlp;java,133402.0
+IT Consultant,4,Master,Bern,power bi;project management;cloud;machine learning;java,123187.0
+Data Scientist,13,Master,Bern,java;power bi,153936.0
+ML Engineer,7,Bachelor,Basel,project management;spark;docker,139994.0
+Data Engineer,5,Master,Zurich,power bi;sql;java;project management,122417.0
+Business Analyst,1,Master,Bern,project management;power bi;sql;python;docker;nlp,127937.0
+IT Consultant,3,Master,Geneva,cloud;spark;machine learning,124316.0
+ML Engineer,5,Master,Basel,docker;python;cloud;power bi;project management;java,143413.0
+ML Engineer,2,Apprenticeship,Other CH,power bi;cloud,83560.0
+Data Engineer,5,PhD,Basel,sql;docker;nlp;cloud,144680.0
+ML Engineer,5,Bachelor,Zurich,java;sql;power bi;machine learning,159143.0
+Data Engineer,6,Apprenticeship,Remote CH,python;machine learning;cloud;project management,134999.0
+Business Analyst,6,Apprenticeship,Geneva,cloud;sql;java;docker,126903.0
+IT Consultant,4,Master,Zurich,nlp;machine learning;power bi;project management;java;python,148556.0
+Software Developer,0,Bachelor,Other CH,power bi;spark;java;machine learning;sql,118417.0
+Data Scientist,6,Bachelor,Other CH,project management;sql;docker;java;machine learning,111448.0
+Data Engineer,7,Bachelor,Basel,machine learning;sql;java;project management;nlp,136235.0
+Business Analyst,12,Master,Zurich,java;project management,154805.0
+Data Engineer,9,Master,Bern,cloud;spark,150723.0
+IT Consultant,9,Master,Other CH,cloud;python;project management;sql,145576.0
+Data Engineer,1,Bachelor,Geneva,project management;power bi;cloud;sql;docker,105031.0
+ML Engineer,14,Master,Geneva,docker;machine learning;project management,191867.0
+IT Consultant,5,Bachelor,Remote CH,nlp;project management,131372.0
+Business Analyst,2,Master,Zurich,nlp;cloud;project management;power bi;machine learning,127161.0
+Software Developer,3,Bachelor,Other CH,spark;sql;power bi,116286.0
+ML Engineer,10,Apprenticeship,Other CH,sql;cloud,150208.0
+Business Analyst,7,Bachelor,Zurich,spark;python;docker;project management;sql,139737.0
+Data Engineer,3,PhD,Zurich,project management;power bi;java,141655.0
+Data Engineer,7,Apprenticeship,Bern,power bi;machine learning;cloud,150689.0
+Data Engineer,3,Apprenticeship,Other CH,power bi;java;cloud;nlp;project management;machine learning,114596.0
+Data Scientist,2,Master,Zurich,cloud;machine learning,129578.0
+ML Engineer,3,Master,Basel,java;power bi;sql;machine learning;docker,158410.0
+Business Analyst,6,PhD,Other CH,java;docker;power bi;cloud;python,149271.0
+IT Consultant,1,Master,Bern,power bi;project management,95259.0
+ML Engineer,12,Apprenticeship,Basel,python;java;project management,154804.0
+Software Developer,3,Master,Zurich,java;spark;docker;sql;project management,128427.0
+Data Scientist,6,Master,Zurich,spark;nlp;sql,140705.0
+IT Consultant,6,Bachelor,Other CH,power bi;cloud;nlp;docker,122075.0
+Software Developer,5,Bachelor,Zurich,power bi;project management,134662.0
+Software Developer,12,PhD,Basel,java;spark;project management;nlp,176634.0
+IT Consultant,4,Bachelor,Geneva,sql;project management;machine learning;python;cloud,137067.0
+IT Consultant,7,PhD,Zurich,spark;machine learning;sql,147321.0
+IT Consultant,11,Bachelor,Other CH,nlp;docker;java;cloud,138376.0
+Software Developer,9,Apprenticeship,Remote CH,nlp;sql;power bi;python,138769.0
+Data Scientist,5,Master,Zurich,project management;docker;power bi;python,134865.0
+IT Consultant,5,Bachelor,Geneva,sql;power bi;python,117343.0
+ML Engineer,3,Bachelor,Other CH,docker;nlp;sql;cloud;python;spark,133905.0
+ML Engineer,13,Master,Zurich,docker;python;java;spark;project management,173113.0
+Data Scientist,3,Bachelor,Zurich,java;spark;nlp,110064.0
+Software Developer,7,Bachelor,Basel,power bi;docker,109459.0
+ML Engineer,7,Apprenticeship,Bern,sql;project management;machine learning;java;power bi;cloud,175640.0
+ML Engineer,4,Apprenticeship,Zurich,nlp;sql;python;machine learning;power bi,139744.0
+Data Scientist,3,Bachelor,Geneva,docker;cloud;java,124715.0
+Business Analyst,10,Bachelor,Remote CH,java;python;machine learning,136253.0
+IT Consultant,7,Master,Remote CH,sql;java;docker,116576.0
+Data Engineer,4,Bachelor,Bern,power bi;project management;spark;nlp,111165.0
+Business Analyst,3,Master,Remote CH,docker;sql;cloud;project management,106985.0
+Business Analyst,2,Bachelor,Zurich,project management;python;docker;spark;power bi;java,122736.0
+Data Scientist,10,Bachelor,Other CH,java;spark,149271.0
+Business Analyst,5,Bachelor,Bern,power bi;cloud;python;machine learning,122470.0
+IT Consultant,11,Bachelor,Other CH,cloud;sql;project management;spark;nlp,149266.0
+ML Engineer,8,Bachelor,Zurich,sql;spark;cloud;java,159109.0
+Business Analyst,10,Bachelor,Geneva,power bi;java;project management;sql,116628.0
+Data Engineer,16,PhD,Remote CH,project management;java;python;spark,172042.0
+Software Developer,3,Master,Zurich,spark;python,125432.0
+Data Engineer,25,Bachelor,Geneva,machine learning;project management,178811.0
+Business Analyst,5,Bachelor,Zurich,sql;machine learning,137295.0
+IT Consultant,9,Apprenticeship,Zurich,spark;nlp;cloud;java,134814.0
+IT Consultant,3,Master,Remote CH,power bi;sql,120723.0
+Software Developer,3,Bachelor,Bern,spark;java;sql;python,119430.0
+ML Engineer,3,Bachelor,Basel,python;docker;power bi,126498.0
+IT Consultant,3,Master,Other CH,sql;machine learning,101925.0
+IT Consultant,8,Master,Remote CH,docker;java;cloud;python;project management,134257.0
+IT Consultant,2,Bachelor,Basel,spark;power bi;docker,111318.0
+Data Scientist,5,Bachelor,Remote CH,cloud;sql;java,125398.0
+Software Developer,4,PhD,Basel,docker;sql;java,127446.0
+Data Engineer,9,Master,Zurich,sql;spark;power bi;java;project management;cloud,165220.0
+IT Consultant,4,Apprenticeship,Zurich,docker;project management;python;machine learning;nlp,111148.0
+Data Scientist,6,Master,Bern,sql;spark;java;cloud,123613.0
+Data Engineer,8,Master,Other CH,sql;nlp;cloud;java;machine learning,145791.0
+ML Engineer,1,Bachelor,Bern,java;project management;docker,117009.0
+IT Consultant,22,Master,Other CH,docker;cloud;sql;spark;project management,192531.0
+Software Developer,3,Bachelor,Zurich,power bi;docker;cloud;project management;nlp;machine learning,140293.0
+Business Analyst,10,Master,Remote CH,sql;python,134442.0
+Data Scientist,6,Bachelor,Geneva,power bi;spark;cloud;sql;machine learning,149893.0
+Business Analyst,3,Master,Other CH,python;sql,111527.0
+Software Developer,2,Bachelor,Basel,java;project management,94567.0
+IT Consultant,1,Bachelor,Other CH,python;cloud;machine learning;docker;sql;java,107287.0
+ML Engineer,21,Master,Other CH,spark;power bi;machine learning;java;sql,171776.0
+Business Analyst,1,Master,Zurich,java;sql;python,119284.0
+Data Scientist,5,Master,Zurich,spark;power bi;project management;docker;sql,148993.0
+Business Analyst,8,Master,Zurich,spark;machine learning;python;nlp;docker,149318.0
+Software Developer,25,Master,Zurich,project management;machine learning;docker;power bi,186103.0
+ML Engineer,0,Bachelor,Zurich,project management;docker;spark;python;power bi;cloud,145519.0
+Data Engineer,2,Master,Basel,java;project management;python;power bi;sql;machine learning,140893.0
+IT Consultant,5,Bachelor,Geneva,spark;docker,136623.0
+Software Developer,6,Bachelor,Geneva,project management;power bi;spark,135493.0
+ML Engineer,3,Bachelor,Other CH,project management;sql;spark;nlp;docker,120632.0
+Data Engineer,2,Bachelor,Other CH,cloud;sql;python;machine learning;nlp,113741.0
+Software Developer,14,Bachelor,Basel,sql;docker,140250.0
+ML Engineer,13,Bachelor,Other CH,machine learning;docker;spark,157530.0
+Data Scientist,9,Bachelor,Zurich,sql;power bi;spark;nlp;machine learning,147710.0
+Data Scientist,4,Bachelor,Other CH,project management;docker,89684.0
+Business Analyst,5,Master,Basel,sql;nlp;machine learning;java;project management;spark,170657.0
+Data Engineer,8,Bachelor,Remote CH,nlp;python,144222.0
+Software Developer,5,Bachelor,Bern,nlp;java,109963.0
+IT Consultant,4,Bachelor,Zurich,docker;nlp;sql;spark;cloud,128543.0
+Business Analyst,2,Apprenticeship,Zurich,cloud;spark;java;machine learning;docker;project management,118371.0
+ML Engineer,7,Master,Zurich,project management;java;power bi;docker,135937.0
+IT Consultant,6,Apprenticeship,Zurich,python;nlp,110966.0
+ML Engineer,9,Master,Zurich,spark;java;docker;power bi;project management,149369.0
+Software Developer,8,Master,Remote CH,sql;project management,134846.0
+Data Engineer,11,Master,Other CH,java;python,136025.0
+Data Scientist,1,Master,Zurich,power bi;docker;cloud;project management;machine learning,130571.0
+ML Engineer,7,Bachelor,Zurich,java;python;machine learning;power bi;spark;nlp,164347.0
+Software Developer,1,Apprenticeship,Bern,java;machine learning;docker;nlp;spark,129725.0
+Data Engineer,1,Bachelor,Other CH,nlp;machine learning,103964.0
+Software Developer,11,Master,Zurich,project management;docker;machine learning;python;spark,168997.0
+IT Consultant,3,Apprenticeship,Zurich,spark;cloud;java;machine learning,126645.0
+Data Scientist,8,PhD,Geneva,spark;project management;sql;cloud,142173.0
+Data Scientist,1,Master,Zurich,java;cloud;nlp;docker;power bi;spark,123853.0
+IT Consultant,6,PhD,Geneva,sql;machine learning,165038.0
+ML Engineer,3,Bachelor,Remote CH,cloud;java;spark;project management;python;nlp,156855.0
+Software Developer,8,Master,Geneva,python;machine learning;docker,144936.0
+Business Analyst,6,Master,Other CH,cloud;power bi;machine learning;spark,129821.0
+ML Engineer,7,Bachelor,Geneva,machine learning;cloud;nlp;spark;power bi;docker,168267.0
+Data Engineer,0,Master,Zurich,project management;power bi;spark;java;python;machine learning,138555.0
+Data Scientist,11,Bachelor,Zurich,machine learning;project management;java;power bi;spark;docker,162807.0
+IT Consultant,2,Master,Zurich,cloud;java;nlp;project management;power bi,124196.0
+Business Analyst,2,Bachelor,Zurich,docker;project management;spark;cloud;nlp,120824.0
+Data Scientist,1,Master,Bern,sql;java;power bi,131916.0
+Business Analyst,6,Apprenticeship,Remote CH,cloud;python;power bi;spark,122103.0
+ML Engineer,2,Bachelor,Geneva,docker;spark;power bi,140160.0
+Data Engineer,5,Master,Geneva,nlp;project management;java;machine learning,147477.0
+Data Engineer,11,Master,Zurich,sql;cloud;power bi;spark;java,172309.0
+IT Consultant,7,Master,Zurich,machine learning;python;cloud;power bi,128387.0
+IT Consultant,22,Bachelor,Other CH,sql;java;python;nlp,157461.0
+IT Consultant,13,PhD,Geneva,power bi;java;machine learning;python,167727.0
+Software Developer,16,Bachelor,Geneva,project management;nlp;python;power bi,157486.0
+Data Engineer,11,Master,Zurich,spark;project management;python;machine learning,171742.0
+Data Scientist,6,Master,Remote CH,docker;spark;nlp;cloud;sql,145295.0
+IT Consultant,8,PhD,Remote CH,java;cloud;nlp;machine learning,162740.0
+Software Developer,1,Bachelor,Bern,sql;spark,116442.0
+Software Developer,2,Apprenticeship,Zurich,sql;project management;cloud,127856.0
+Business Analyst,7,Bachelor,Bern,docker;python;project management,125793.0
+Business Analyst,5,Master,Zurich,cloud;sql;power bi;spark;docker;nlp,148974.0
+IT Consultant,6,Apprenticeship,Zurich,spark;python;nlp,131354.0
+Data Scientist,6,Master,Zurich,nlp;project management;java,139786.0
+Data Engineer,7,Apprenticeship,Other CH,cloud;power bi;project management;java;machine learning,112896.0
+Business Analyst,10,Bachelor,Bern,java;sql,122468.0
+Data Engineer,4,Apprenticeship,Remote CH,sql;python;spark;java,133329.0
+IT Consultant,3,Apprenticeship,Basel,project management;docker,115267.0
+ML Engineer,3,Bachelor,Zurich,project management;sql;cloud,138423.0
+Data Engineer,5,Bachelor,Basel,nlp;machine learning;java;power bi;docker;cloud,137341.0
+Software Developer,6,Master,Remote CH,cloud;project management;spark,132639.0
+IT Consultant,4,Bachelor,Bern,power bi;python;java;cloud,123713.0
+Data Scientist,12,Bachelor,Bern,docker;sql,137995.0
+Data Engineer,13,Master,Zurich,machine learning;cloud;python;spark;sql;power bi,173036.0
+Software Developer,14,Bachelor,Zurich,docker;power bi;nlp;python,161516.0
+IT Consultant,9,Master,Bern,docker;power bi,114085.0
+Data Engineer,3,PhD,Zurich,java;docker,126290.0
+Business Analyst,2,Apprenticeship,Zurich,java;docker;python,95537.0
+Data Engineer,11,Master,Other CH,cloud;docker;project management,146445.0
+Data Engineer,10,Bachelor,Basel,cloud;sql;project management;spark;docker,157703.0
+ML Engineer,4,Bachelor,Geneva,spark;machine learning;python;docker;sql;nlp,143860.0
+Data Scientist,4,Bachelor,Zurich,java;spark;sql;machine learning;cloud;python,141428.0
+Business Analyst,10,PhD,Remote CH,python;nlp;cloud;machine learning;docker;sql,162499.0
+Business Analyst,5,Apprenticeship,Basel,java;machine learning,107356.0
+Data Scientist,2,Master,Basel,machine learning;sql;spark;java,119897.0
+Software Developer,5,Apprenticeship,Zurich,spark;power bi;project management;cloud,123353.0
+Software Developer,10,Master,Other CH,machine learning;java;power bi;sql;cloud,161004.0
+Business Analyst,16,Bachelor,Bern,power bi;python;cloud;java;nlp,151476.0
+IT Consultant,2,Bachelor,Basel,machine learning;nlp;python,102137.0
+ML Engineer,2,Master,Zurich,docker;cloud;python,112126.0
+Data Engineer,0,Bachelor,Zurich,java;power bi,119557.0
+IT Consultant,2,Master,Bern,java;nlp;docker,111994.0
+Data Scientist,4,Apprenticeship,Remote CH,docker;cloud;machine learning,133241.0
+Data Scientist,3,PhD,Other CH,java;machine learning,116625.0
+Data Engineer,7,Master,Zurich,project management;python;nlp,153291.0
+IT Consultant,2,Bachelor,Zurich,cloud;java;sql;python;project management;docker,125502.0
+IT Consultant,0,Bachelor,Basel,power bi;sql;java;python,100077.0
+Business Analyst,2,PhD,Geneva,python;nlp;spark;machine learning,126217.0
+Business Analyst,3,Master,Other CH,java;docker,101066.0
+Software Developer,13,Bachelor,Other CH,nlp;docker;spark,131042.0
+Software Developer,1,Master,Basel,power bi;spark;sql;nlp;machine learning;docker,105688.0
+Data Engineer,4,Bachelor,Geneva,docker;python;spark;cloud;power bi;machine learning,124711.0
+Data Engineer,10,Master,Geneva,cloud;docker;nlp,159463.0
+ML Engineer,8,Master,Geneva,java;spark;project management;docker;cloud;sql,161490.0
+Data Engineer,7,Bachelor,Zurich,power bi;docker;cloud,127519.0
+Business Analyst,3,Apprenticeship,Zurich,cloud;python;spark;power bi;sql,113727.0
+Data Engineer,6,Bachelor,Other CH,cloud;sql;python;project management;nlp;docker,134102.0
+Data Scientist,7,Bachelor,Remote CH,sql;java;python;project management,144522.0
+IT Consultant,5,Apprenticeship,Geneva,power bi;spark;sql;project management,86134.0
+IT Consultant,11,Master,Basel,spark;nlp,145177.0
+Business Analyst,2,Apprenticeship,Basel,cloud;power bi;project management,104578.0
+Software Developer,13,Bachelor,Basel,project management;python;docker;sql;nlp,146686.0
+Software Developer,3,PhD,Zurich,power bi;nlp;python;machine learning;docker,121181.0
+Software Developer,3,Bachelor,Other CH,java;nlp;docker,108608.0
+Software Developer,3,Master,Remote CH,sql;docker,127387.0
+IT Consultant,2,Master,Zurich,java;project management;sql;machine learning,110438.0
+Software Developer,0,Bachelor,Other CH,java;python;cloud;spark,99454.0
+Data Engineer,3,Bachelor,Zurich,project management;nlp;docker;java;spark;python,144616.0
+Data Engineer,6,Bachelor,Zurich,java;python;power bi,129304.0
+Software Developer,2,PhD,Basel,spark;project management;cloud;nlp,135067.0
+Business Analyst,3,Apprenticeship,Bern,machine learning;spark;project management,99505.0
+IT Consultant,7,Apprenticeship,Geneva,project management;sql,92045.0
+ML Engineer,0,Bachelor,Zurich,project management;power bi;python,129273.0
+Software Developer,4,Bachelor,Basel,project management;sql;nlp,104306.0
+Business Analyst,4,Bachelor,Remote CH,python;nlp;machine learning;power bi;project management;cloud,130551.0
+ML Engineer,2,Bachelor,Other CH,power bi;python;docker;spark;machine learning;sql,136049.0
+Software Developer,6,PhD,Basel,machine learning;cloud;nlp;python;sql;power bi,141820.0
+Data Scientist,4,PhD,Zurich,power bi;cloud,136451.0
+Software Developer,11,Apprenticeship,Zurich,power bi;nlp;docker;project management;python,160539.0
+IT Consultant,5,Bachelor,Basel,nlp;python;cloud;docker;project management;java,140399.0
+Data Engineer,11,Master,Geneva,spark;nlp;python;machine learning,155380.0
+Software Developer,8,Bachelor,Remote CH,power bi;java;nlp;sql;docker,151689.0
+Data Engineer,6,Master,Geneva,docker;spark;sql;python;java,152827.0
+Business Analyst,7,Bachelor,Bern,machine learning;python;spark;sql,147336.0
+Data Scientist,2,Bachelor,Zurich,project management;docker;spark;python,133201.0
+Data Scientist,8,Master,Zurich,cloud;nlp;spark;sql;java;project management,170709.0
+Data Engineer,9,Bachelor,Zurich,nlp;sql;power bi,142595.0
+Data Scientist,2,Master,Zurich,java;python,118287.0
+IT Consultant,6,Bachelor,Zurich,python;cloud;machine learning,144293.0
+Data Scientist,5,Bachelor,Bern,cloud;java,107771.0
+Software Developer,16,PhD,Other CH,nlp;java;docker;sql;python;power bi,173303.0
+Software Developer,4,Apprenticeship,Zurich,cloud;python;spark,110808.0
+ML Engineer,9,Bachelor,Zurich,python;project management;docker,161399.0
+Software Developer,12,Bachelor,Zurich,docker;project management,155305.0
+IT Consultant,3,Bachelor,Zurich,java;project management;nlp;spark;power bi,126292.0
+Data Engineer,7,PhD,Zurich,nlp;python,143260.0
+IT Consultant,2,Bachelor,Other CH,sql;project management;nlp;spark,108198.0
+IT Consultant,8,Bachelor,Remote CH,project management;nlp;sql;docker,128558.0
+Data Scientist,8,Master,Basel,python;docker;project management;sql;spark;nlp,143244.0
+ML Engineer,2,Bachelor,Zurich,spark;power bi;nlp;python,127938.0
+ML Engineer,7,Bachelor,Bern,spark;cloud;machine learning,143834.0
+Software Developer,4,Master,Bern,java;project management;python;machine learning;spark;sql,134630.0
+Data Scientist,6,Bachelor,Other CH,spark;nlp;power bi;sql;java;project management,138363.0
+Data Scientist,8,PhD,Remote CH,cloud;spark;docker;machine learning,185827.0
+Software Developer,13,Bachelor,Zurich,machine learning;cloud;nlp,144885.0
+ML Engineer,10,Master,Geneva,python;spark;docker,161756.0
+Data Engineer,6,Bachelor,Remote CH,python;sql,124394.0
+Data Scientist,1,Bachelor,Zurich,project management;java;spark;sql;python;cloud,134457.0
+IT Consultant,5,Bachelor,Zurich,power bi;spark;docker;nlp,127606.0
+Data Scientist,6,Apprenticeship,Zurich,docker;nlp;cloud;spark;java;python,161036.0
+Data Scientist,5,Apprenticeship,Remote CH,java;cloud;power bi;spark,154084.0
+Data Scientist,2,Bachelor,Bern,power bi;nlp;project management;cloud;machine learning;docker,135222.0
+Business Analyst,4,Bachelor,Remote CH,project management;python,97276.0
+ML Engineer,11,Bachelor,Zurich,cloud;spark;project management,166990.0
+Software Developer,2,Master,Geneva,docker;power bi;nlp;cloud,114825.0
+Data Scientist,2,Master,Zurich,machine learning;cloud,141518.0
+Data Scientist,9,Bachelor,Basel,cloud;power bi;machine learning,136041.0
+Data Engineer,2,Bachelor,Other CH,sql;power bi;spark;docker;python,100354.0
+Business Analyst,9,Bachelor,Bern,power bi;machine learning;java;nlp;spark,130840.0
+Data Scientist,3,Master,Remote CH,nlp;sql;python,103350.0
+IT Consultant,4,Bachelor,Geneva,nlp;docker;spark;sql;cloud,130842.0
+Data Scientist,5,Apprenticeship,Remote CH,power bi;cloud;java;docker,143013.0
+IT Consultant,2,Bachelor,Zurich,project management;docker,111288.0
+Software Developer,17,Bachelor,Zurich,python;docker;java;cloud;project management,175602.0
+ML Engineer,3,Bachelor,Other CH,machine learning;spark;python;sql,98307.0
+ML Engineer,20,Bachelor,Zurich,machine learning;python;java;nlp;cloud;docker,208776.0
+IT Consultant,2,Master,Remote CH,docker;sql,116060.0
+Data Engineer,4,Apprenticeship,Remote CH,spark;machine learning;nlp,112675.0
+Business Analyst,25,Master,Zurich,python;cloud;power bi;java;nlp,190342.0
+ML Engineer,4,Apprenticeship,Bern,cloud;nlp,126050.0
+IT Consultant,5,Master,Zurich,nlp;machine learning;sql;cloud;java;spark,146527.0
+Business Analyst,3,Master,Zurich,nlp;project management;power bi,116091.0
+Data Scientist,3,Bachelor,Bern,cloud;java;spark,128758.0
+Business Analyst,9,Master,Other CH,power bi;nlp;project management,159235.0
+Data Scientist,9,Master,Zurich,python;docker;spark;power bi;machine learning;java,161666.0
+Business Analyst,11,Bachelor,Bern,sql;docker;cloud,138332.0
+ML Engineer,9,Bachelor,Zurich,power bi;docker;sql,150072.0
+Business Analyst,8,Bachelor,Basel,sql;nlp;machine learning;power bi;spark;cloud,130735.0
+Data Engineer,5,Apprenticeship,Zurich,java;nlp;sql;python;cloud,133445.0
+Data Engineer,2,Bachelor,Zurich,machine learning;power bi,136726.0
+ML Engineer,1,Apprenticeship,Other CH,nlp;power bi;python;cloud;docker,111234.0
+ML Engineer,3,Bachelor,Geneva,spark;project management;power bi;cloud;python;java,128762.0
+Software Developer,6,Bachelor,Geneva,docker;power bi;cloud;project management;nlp,130910.0
+Software Developer,11,Bachelor,Basel,project management;spark;docker;java;sql;python,152718.0
+Business Analyst,5,PhD,Zurich,project management;cloud;power bi;sql;python;spark,138484.0
+Software Developer,2,Bachelor,Remote CH,nlp;python;power bi;sql;cloud;project management,117957.0
+Data Engineer,0,Master,Zurich,power bi;spark;sql;nlp,120681.0
+IT Consultant,3,Master,Bern,nlp;cloud;java;spark,130054.0
+Data Scientist,10,Master,Other CH,cloud;sql;java;project management;docker,148233.0
+IT Consultant,8,Bachelor,Bern,cloud;nlp,146648.0
+IT Consultant,9,Bachelor,Remote CH,docker;machine learning;python;cloud,120847.0
+Software Developer,4,Master,Other CH,cloud;project management;sql;nlp;docker;machine learning,116232.0
+ML Engineer,5,Bachelor,Zurich,machine learning;nlp;project management;docker,143377.0
+Business Analyst,6,Bachelor,Remote CH,docker;spark;project management;machine learning;power bi;cloud,114801.0
+Business Analyst,12,Master,Geneva,python;machine learning,146900.0
+IT Consultant,8,Bachelor,Geneva,cloud;power bi;sql,115020.0
+IT Consultant,2,Bachelor,Zurich,power bi;cloud,124824.0
+IT Consultant,5,Master,Geneva,sql;spark,141544.0
+Data Engineer,6,Bachelor,Other CH,nlp;python;machine learning,119964.0
+Business Analyst,1,PhD,Zurich,spark;nlp,118718.0
+ML Engineer,6,PhD,Zurich,power bi;python;sql;cloud,152660.0
+Business Analyst,4,Bachelor,Bern,python;docker;sql;machine learning;spark,121441.0
+ML Engineer,8,Apprenticeship,Zurich,machine learning;python;java;power bi;spark;sql,142109.0
+Data Engineer,7,Bachelor,Basel,cloud;project management;nlp,163461.0
+Data Scientist,1,Master,Zurich,java;cloud;sql;power bi;machine learning,131588.0
+ML Engineer,6,Bachelor,Zurich,project management;docker;machine learning,139637.0
+ML Engineer,2,PhD,Remote CH,machine learning;power bi;python;project management;cloud;docker,144212.0
+Business Analyst,11,Bachelor,Remote CH,docker;sql;python;project management;spark;nlp,153268.0
+Software Developer,9,Apprenticeship,Zurich,nlp;docker;spark;power bi,147625.0
+Software Developer,3,PhD,Remote CH,python;power bi;java,120512.0
+Business Analyst,8,Apprenticeship,Other CH,cloud;project management;python;java;machine learning;power bi,130045.0
+Software Developer,7,Apprenticeship,Basel,docker;python;machine learning,119016.0
+Software Developer,3,Bachelor,Zurich,cloud;docker;spark;python;java;power bi,113082.0
+Data Scientist,6,Bachelor,Zurich,cloud;project management;sql;nlp;machine learning;docker,148189.0
+IT Consultant,5,PhD,Remote CH,power bi;nlp;spark;project management;cloud;python,149600.0
+Data Scientist,8,Master,Bern,python;nlp;machine learning;java;project management;spark,169048.0
+Data Engineer,8,Master,Zurich,spark;java,150049.0
+IT Consultant,3,Bachelor,Other CH,power bi;nlp;docker;sql;java,113268.0
+Data Scientist,10,Apprenticeship,Other CH,machine learning;power bi;cloud;docker;project management;python,140641.0
+Software Developer,1,Bachelor,Other CH,docker;cloud;power bi,100693.0
+Business Analyst,3,Bachelor,Zurich,sql;project management;machine learning,109308.0
+Business Analyst,3,Master,Geneva,spark;machine learning;cloud;python;project management,145918.0
+Data Scientist,0,Bachelor,Basel,docker;python,95329.0
+Software Developer,6,Master,Zurich,spark;machine learning;project management;nlp;power bi,151924.0
+ML Engineer,8,PhD,Zurich,machine learning;project management;python;cloud;docker;nlp,159380.0
+Data Engineer,2,Apprenticeship,Other CH,python;machine learning;project management,108361.0
+Data Scientist,16,Bachelor,Remote CH,cloud;project management;nlp;machine learning;sql;python,167516.0
+Software Developer,4,Bachelor,Zurich,java;nlp;docker,119814.0
+Software Developer,3,Bachelor,Zurich,python;cloud;machine learning;java;spark,145248.0
+Software Developer,12,Bachelor,Geneva,java;python;sql;machine learning,143035.0
+Data Engineer,8,Apprenticeship,Zurich,python;java;sql;cloud;docker,156597.0
+Software Developer,2,Bachelor,Other CH,python;sql;machine learning;java;power bi,124733.0
+Data Engineer,10,Master,Remote CH,project management;power bi,113388.0
+Business Analyst,6,Master,Zurich,spark;project management;machine learning;power bi,131506.0
+ML Engineer,5,Master,Other CH,docker;java;nlp,131460.0
+IT Consultant,6,Apprenticeship,Basel,nlp;spark;machine learning;docker,126800.0
+Data Engineer,3,Bachelor,Other CH,python;docker;java;machine learning,126663.0
+Data Scientist,3,Apprenticeship,Other CH,power bi;java,120433.0
+Data Engineer,5,Master,Other CH,project management;docker;spark,123151.0
+Software Developer,10,Bachelor,Remote CH,project management;machine learning,142296.0
+ML Engineer,4,Bachelor,Remote CH,nlp;docker;spark;power bi;java,148676.0
+IT Consultant,7,Apprenticeship,Zurich,nlp;spark,131827.0
+Data Scientist,5,Master,Remote CH,cloud;power bi;python;sql;java;project management,137191.0
+Data Scientist,5,Master,Zurich,power bi;docker;project management;sql;machine learning;java,164174.0
+IT Consultant,6,Bachelor,Remote CH,docker;cloud,111791.0
+Data Engineer,4,Bachelor,Remote CH,cloud;power bi;spark,122024.0
+Data Engineer,6,Bachelor,Zurich,sql;cloud;machine learning,152455.0
+Data Scientist,1,Master,Remote CH,cloud;docker;machine learning;spark;nlp;python,121370.0
+ML Engineer,7,Master,Basel,power bi;spark,141471.0
+Data Scientist,5,Master,Bern,nlp;java,123500.0
+Data Scientist,8,Bachelor,Remote CH,nlp;spark,122867.0
+Data Engineer,8,PhD,Bern,java;spark;project management;cloud,162687.0
+Data Scientist,5,Apprenticeship,Basel,docker;spark;python;java,125054.0
+Software Developer,11,Master,Remote CH,python;project management;machine learning;power bi,146222.0
+Business Analyst,8,PhD,Basel,python;cloud;machine learning,141042.0
+Software Developer,2,Master,Geneva,spark;python,123056.0
+ML Engineer,1,Master,Zurich,docker;power bi;spark;machine learning,133274.0
+Data Engineer,5,Bachelor,Bern,java;docker,140246.0
+IT Consultant,2,PhD,Zurich,nlp;python;machine learning;power bi;cloud,143829.0
+Business Analyst,2,Master,Zurich,cloud;spark;nlp;java;power bi,112541.0
+Business Analyst,3,Bachelor,Other CH,nlp;python;project management,119211.0
+Data Engineer,2,Master,Zurich,power bi;docker;machine learning,109409.0
+Data Scientist,3,Bachelor,Zurich,python;sql;power bi,124424.0
+Data Scientist,5,Bachelor,Basel,python;spark;sql,136788.0
+Data Scientist,3,Apprenticeship,Remote CH,sql;nlp;spark;project management;cloud,148497.0
+Software Developer,2,Bachelor,Basel,docker;python;machine learning,91781.0
+IT Consultant,3,Bachelor,Remote CH,spark;machine learning;sql;nlp,118507.0
+Business Analyst,16,Bachelor,Zurich,java;project management;machine learning;python;cloud;power bi,173029.0
+Business Analyst,3,Apprenticeship,Bern,power bi;docker;machine learning;sql;cloud,113829.0
+ML Engineer,9,Bachelor,Basel,python;sql;java;nlp;spark,142971.0
+ML Engineer,5,Bachelor,Basel,cloud;machine learning;spark;docker,145633.0
+ML Engineer,3,Bachelor,Basel,docker;cloud;spark;power bi;nlp;machine learning,145381.0
+IT Consultant,9,Apprenticeship,Geneva,machine learning;docker;python;sql;project management,145723.0
+ML Engineer,4,Master,Geneva,spark;power bi,144786.0
+ML Engineer,7,Master,Zurich,project management;python;cloud;docker;power bi;nlp,163611.0
+Data Scientist,8,Master,Remote CH,spark;nlp;docker,137834.0
+Data Scientist,8,Apprenticeship,Other CH,java;spark;project management;sql;python,113991.0
+IT Consultant,10,Master,Zurich,project management;machine learning;cloud;docker;power bi,184771.0
+IT Consultant,9,Master,Remote CH,docker;nlp;spark;power bi;cloud;sql,155366.0
+Data Scientist,7,Bachelor,Basel,java;python;power bi;machine learning;nlp;docker,146318.0
+IT Consultant,4,PhD,Zurich,sql;cloud,124265.0
+Business Analyst,4,Master,Zurich,sql;power bi,118734.0
+Software Developer,4,PhD,Remote CH,docker;project management;machine learning;power bi;nlp;cloud,145517.0
+Data Engineer,5,Master,Remote CH,machine learning;project management;java;spark;nlp;cloud,153547.0
+Software Developer,9,Master,Zurich,sql;cloud,147881.0
+Data Scientist,2,Bachelor,Basel,spark;java;docker;power bi;project management,122701.0
+ML Engineer,8,Master,Bern,java;cloud;python;sql;project management;docker,152169.0
+Data Scientist,7,Bachelor,Geneva,docker;machine learning;power bi;sql;java,157929.0
+Business Analyst,0,Master,Zurich,docker;machine learning;power bi;sql;python;nlp,126126.0
+IT Consultant,5,Apprenticeship,Zurich,docker;python,127982.0
+Software Developer,2,Bachelor,Remote CH,java;machine learning,118819.0
+IT Consultant,7,Master,Geneva,spark;cloud;power bi;project management,135894.0
+Data Scientist,6,Bachelor,Remote CH,python;nlp;sql;machine learning,142916.0
+Data Scientist,4,Bachelor,Bern,machine learning;project management;nlp,133273.0
+Data Scientist,3,Bachelor,Zurich,docker;cloud;project management;spark;java,150025.0
+ML Engineer,17,PhD,Zurich,machine learning;java,197061.0
+Data Engineer,8,Master,Zurich,spark;machine learning;project management,129724.0
+Business Analyst,3,Master,Zurich,spark;cloud;sql;java,114164.0
+Business Analyst,7,Master,Geneva,machine learning;project management;sql;python,128083.0
+IT Consultant,5,Master,Zurich,sql;cloud;power bi;python,131415.0
+Data Engineer,5,Master,Remote CH,cloud;project management;machine learning;power bi,150385.0
+Software Developer,1,Bachelor,Zurich,project management;cloud;docker;machine learning;python,121030.0
+Data Scientist,4,Master,Other CH,python;cloud;project management;power bi;spark,127690.0
+IT Consultant,12,Bachelor,Zurich,machine learning;project management;power bi,154733.0
+Data Engineer,6,Bachelor,Zurich,power bi;sql;spark;cloud;machine learning;nlp,165917.0
+ML Engineer,5,Bachelor,Zurich,power bi;machine learning;nlp;project management,133497.0
+IT Consultant,6,Master,Zurich,project management;java;docker;sql;machine learning,138090.0
+Data Engineer,3,Master,Bern,python;java;machine learning,131527.0
+Software Developer,1,Master,Remote CH,java;project management;docker,123502.0
+IT Consultant,4,Master,Geneva,docker;power bi;machine learning;nlp;python;sql,148303.0
+Data Engineer,0,Bachelor,Basel,power bi;python;nlp;machine learning;sql,123126.0
+Data Engineer,5,Bachelor,Zurich,python;docker;spark,119802.0
+ML Engineer,5,Master,Basel,spark;cloud;machine learning;docker;project management,165020.0
+Data Scientist,3,Master,Zurich,java;sql,117311.0
+Software Developer,6,Master,Geneva,sql;nlp;docker;python;cloud,149296.0
+ML Engineer,15,Master,Zurich,machine learning;nlp;sql;power bi;docker;python,174011.0
+ML Engineer,13,Master,Basel,machine learning;spark;cloud;sql;docker,168707.0
+Data Engineer,7,Master,Other CH,machine learning;nlp;sql;project management,136190.0
+IT Consultant,6,Bachelor,Other CH,spark;docker,118912.0
+IT Consultant,7,Bachelor,Basel,machine learning;cloud,135706.0
+ML Engineer,4,Master,Geneva,sql;machine learning;docker;power bi,136941.0
+Data Scientist,13,Bachelor,Remote CH,spark;nlp;power bi;project management;java,147310.0
+Software Developer,4,Bachelor,Remote CH,spark;power bi;project management;machine learning;docker,134459.0
+Software Developer,9,Bachelor,Remote CH,python;power bi;project management;sql;java,153879.0
+Business Analyst,8,Bachelor,Other CH,sql;nlp,100073.0
+ML Engineer,9,Master,Zurich,machine learning;power bi,153038.0
+Software Developer,1,Master,Zurich,project management;cloud;nlp;sql;power bi,123247.0
+Business Analyst,3,Bachelor,Geneva,sql;project management;nlp;docker,87469.0
+Business Analyst,2,Master,Zurich,spark;cloud;nlp;python;project management,120542.0
+ML Engineer,15,Bachelor,Zurich,nlp;java;cloud;power bi;sql,170900.0
+ML Engineer,5,Bachelor,Basel,python;project management,115969.0
+IT Consultant,8,Master,Zurich,project management;nlp;spark;power bi,150679.0
+IT Consultant,2,Master,Zurich,machine learning;python;spark;docker;cloud;nlp,141520.0
+IT Consultant,9,Bachelor,Geneva,nlp;java;python;sql,118628.0
+Software Developer,4,Bachelor,Basel,power bi;cloud;java;python;docker,136605.0
+Software Developer,3,Master,Bern,machine learning;java,125081.0
+Software Developer,2,Apprenticeship,Other CH,machine learning;docker;project management,105750.0
+Software Developer,12,Bachelor,Zurich,sql;power bi,138626.0
+IT Consultant,14,Bachelor,Other CH,nlp;java;project management,117442.0
+Data Engineer,0,Master,Other CH,docker;python;cloud,118037.0
+IT Consultant,5,Bachelor,Zurich,machine learning;nlp,118957.0
+Business Analyst,10,Bachelor,Remote CH,python;cloud;spark;project management;docker;nlp,144471.0
+Data Engineer,10,Bachelor,Remote CH,project management;nlp,137905.0
+Data Scientist,25,Apprenticeship,Other CH,docker;cloud;sql;machine learning;spark;java,198082.0
+Software Developer,5,Master,Zurich,docker;project management;cloud;sql;power bi,127636.0
+Data Scientist,0,Bachelor,Remote CH,cloud;nlp;spark;python,112396.0
+Business Analyst,1,Bachelor,Zurich,power bi;machine learning;sql,142568.0
+Data Engineer,5,Bachelor,Bern,sql;python;java;machine learning,116760.0
+ML Engineer,6,Master,Remote CH,project management;java;power bi;spark;nlp,141059.0
+ML Engineer,5,Master,Basel,sql;docker;power bi;project management,150014.0
+Data Scientist,5,PhD,Basel,project management;sql;cloud,158502.0
+Software Developer,2,Bachelor,Basel,docker;spark;java;project management;power bi;python,134861.0
+ML Engineer,9,Master,Zurich,cloud;spark;nlp;power bi;sql;machine learning,166503.0
+Software Developer,12,Bachelor,Other CH,power bi;java;nlp,165173.0
+Software Developer,3,Bachelor,Geneva,spark;machine learning;java;docker;project management,121425.0
+Business Analyst,2,Bachelor,Zurich,nlp;docker;sql;power bi,120134.0
+IT Consultant,4,Bachelor,Bern,spark;sql,130450.0
+Business Analyst,9,Bachelor,Other CH,power bi;project management;java;docker,131251.0
+ML Engineer,4,Apprenticeship,Other CH,cloud;spark;machine learning;power bi;nlp;python,137386.0
+ML Engineer,0,Bachelor,Basel,project management;cloud;spark,133491.0
+Business Analyst,7,Master,Remote CH,machine learning;python;power bi;java;docker,144142.0
+Data Engineer,3,Bachelor,Zurich,power bi;cloud;project management;nlp,137378.0
+Business Analyst,7,Bachelor,Zurich,python;sql;java;docker;cloud,157979.0
+Data Scientist,2,Bachelor,Zurich,java;nlp;docker;python;cloud;spark,129069.0
+Software Developer,1,Bachelor,Remote CH,java;nlp;docker,126886.0
+Software Developer,8,Master,Bern,project management;power bi,121032.0
+IT Consultant,5,Bachelor,Other CH,java;machine learning,121826.0
+Data Engineer,1,Bachelor,Other CH,machine learning;docker;sql;cloud;python;power bi,128446.0
+IT Consultant,4,Bachelor,Geneva,java;sql;power bi;machine learning;spark,132769.0
+Data Scientist,2,Bachelor,Zurich,power bi;project management;nlp,120381.0
+ML Engineer,4,Master,Other CH,power bi;machine learning;nlp;cloud;python;project management,164781.0
+Data Engineer,4,Bachelor,Remote CH,sql;java;spark;cloud,125898.0
+ML Engineer,6,Bachelor,Geneva,project management;cloud;python;machine learning,147020.0
+Business Analyst,10,Master,Other CH,nlp;sql;docker;power bi;machine learning;spark,146140.0
+Data Engineer,15,Bachelor,Zurich,sql;python,150821.0
+Data Engineer,16,Bachelor,Remote CH,python;project management;sql;nlp;cloud;spark,173810.0
+Data Scientist,5,Bachelor,Zurich,nlp;project management;machine learning,134122.0
+Data Scientist,3,Master,Other CH,docker;sql;nlp;spark,131307.0
+ML Engineer,4,Bachelor,Geneva,power bi;machine learning;nlp;python;spark,155985.0
+Business Analyst,4,Master,Geneva,project management;spark,120533.0
+IT Consultant,7,Bachelor,Remote CH,machine learning;spark;nlp;java;cloud;sql,158667.0
+ML Engineer,8,Master,Zurich,sql;nlp,131915.0
+Data Scientist,3,Master,Remote CH,docker;sql;cloud;spark,151761.0
+Business Analyst,3,Apprenticeship,Zurich,docker;power bi;project management,113316.0
+Business Analyst,1,Master,Zurich,nlp;machine learning;power bi,117118.0
+Data Scientist,7,Bachelor,Zurich,machine learning;project management;sql;spark;cloud,150736.0
+Data Scientist,12,Bachelor,Zurich,nlp;spark;java,166695.0
+Software Developer,8,Bachelor,Bern,java;docker;machine learning;python;power bi;sql,127140.0
+Data Engineer,3,Bachelor,Zurich,machine learning;power bi;docker;nlp,120017.0
+Business Analyst,14,Bachelor,Remote CH,sql;nlp;power bi,144194.0
+IT Consultant,8,Master,Remote CH,sql;nlp;spark;project management;python,145223.0
+Software Developer,10,Master,Basel,docker;java,131555.0
+Data Scientist,5,Master,Bern,sql;project management;docker;cloud;spark;nlp,151748.0
+Software Developer,3,Bachelor,Zurich,sql;project management;spark;cloud;python,154643.0
+Data Scientist,9,Bachelor,Zurich,python;power bi;spark;project management;machine learning,147896.0
+Software Developer,6,Apprenticeship,Other CH,cloud;sql;python;spark,120845.0
+Data Engineer,3,Bachelor,Zurich,cloud;sql;machine learning;project management,144742.0
+ML Engineer,3,Master,Zurich,spark;java;machine learning;sql;python,135380.0
+Data Scientist,2,Master,Zurich,docker;spark,125787.0
+Business Analyst,9,Bachelor,Geneva,project management;nlp;cloud;java,152915.0
+Data Engineer,9,Bachelor,Remote CH,spark;power bi;project management,146264.0
+Software Developer,8,Master,Zurich,nlp;python;machine learning;java;project management;sql,163629.0
+Data Engineer,5,Master,Zurich,sql;spark;docker;java,141849.0
+ML Engineer,5,Bachelor,Zurich,cloud;python;sql;docker;nlp;project management,151353.0
+Data Scientist,4,Bachelor,Zurich,power bi;cloud;machine learning;java,138217.0
+Data Engineer,16,Bachelor,Zurich,docker;nlp,163812.0
+IT Consultant,11,Bachelor,Zurich,java;spark;docker;project management,136264.0
+Data Engineer,7,Master,Geneva,java;spark;docker,134049.0
+Data Scientist,3,Apprenticeship,Geneva,nlp;project management,114844.0
+Business Analyst,3,Apprenticeship,Bern,java;python;project management;nlp;sql;cloud,130226.0
+IT Consultant,13,Master,Zurich,python;power bi;java;machine learning,164277.0
+Software Developer,3,Bachelor,Bern,machine learning;project management;spark;nlp,118204.0
+Software Developer,5,Apprenticeship,Geneva,spark;power bi;docker;nlp;python,124810.0
+Data Scientist,4,Bachelor,Zurich,spark;cloud;sql;power bi;nlp;java,151929.0
+Data Scientist,4,Bachelor,Zurich,java;docker;machine learning;spark;sql;python,128015.0
+Data Scientist,9,Bachelor,Zurich,cloud;sql;python;power bi;machine learning,185973.0
+Data Engineer,6,Master,Other CH,machine learning;project management;nlp;spark;python;cloud,138954.0
+IT Consultant,4,Bachelor,Zurich,java;spark,101110.0
+ML Engineer,2,Master,Zurich,cloud;power bi;python;docker,133022.0
+Data Scientist,8,Bachelor,Basel,project management;spark;docker;python,127828.0
+ML Engineer,5,Master,Basel,power bi;machine learning,129906.0
+ML Engineer,6,Bachelor,Basel,cloud;java;spark,139338.0
+Data Engineer,6,Master,Zurich,nlp;sql;machine learning;docker;project management;java,152720.0
+Data Scientist,8,PhD,Basel,machine learning;sql,147214.0
+IT Consultant,16,Bachelor,Zurich,java;docker;spark,164602.0
+Software Developer,12,Bachelor,Other CH,power bi;nlp;python;spark;cloud,134404.0
+IT Consultant,6,Apprenticeship,Basel,power bi;cloud;sql;java,138643.0
+IT Consultant,4,Bachelor,Basel,python;docker,93381.0
+Data Engineer,16,Master,Zurich,project management;python,179798.0
+Software Developer,8,Bachelor,Zurich,cloud;python;machine learning;project management;spark;nlp,161041.0
+ML Engineer,6,Master,Bern,python;docker,129523.0
+Software Developer,9,Bachelor,Basel,java;spark;python;docker;project management,134936.0
+IT Consultant,4,Bachelor,Other CH,python;sql;docker;power bi;spark,97644.0
+Business Analyst,6,Master,Other CH,nlp;machine learning,124628.0
+ML Engineer,4,Apprenticeship,Zurich,machine learning;python;spark;sql,147159.0
+IT Consultant,11,Master,Other CH,sql;power bi;python;nlp;cloud;docker,150885.0
+ML Engineer,5,Bachelor,Other CH,sql;spark;machine learning;cloud;power bi,144281.0
+IT Consultant,6,Master,Zurich,java;machine learning;nlp;sql;cloud;spark,149726.0
+ML Engineer,2,Master,Other CH,project management;cloud;python;machine learning,136931.0
+Data Scientist,11,Bachelor,Basel,cloud;power bi,151788.0
+Business Analyst,12,PhD,Geneva,sql;python;cloud;project management;docker,163697.0
+ML Engineer,3,Apprenticeship,Basel,sql;power bi;spark,131137.0
+Software Developer,8,Apprenticeship,Other CH,python;java;cloud;docker,128850.0
+Data Engineer,3,Bachelor,Zurich,sql;docker;java,131968.0
+Software Developer,8,Bachelor,Bern,nlp;sql;machine learning;cloud;java;power bi,162966.0
+IT Consultant,5,Master,Bern,java;docker;power bi;cloud,146504.0
+Software Developer,0,Apprenticeship,Other CH,nlp;sql;power bi;java,97337.0
+ML Engineer,4,Bachelor,Bern,sql;spark;machine learning,154044.0
+Data Engineer,2,Bachelor,Zurich,power bi;cloud;java;machine learning;project management;docker,151952.0
+Data Engineer,8,Master,Bern,spark;python;cloud;power bi;docker;project management,149172.0
+Business Analyst,5,Apprenticeship,Zurich,spark;python;docker;project management;machine learning;cloud,122549.0
+Data Engineer,5,Bachelor,Bern,spark;nlp;docker;project management;java,128002.0
+Business Analyst,3,Master,Zurich,java;project management;spark;docker;machine learning,121775.0
+IT Consultant,3,Apprenticeship,Other CH,power bi;cloud;python;spark,131067.0
+ML Engineer,6,PhD,Geneva,docker;java;spark,150240.0
+Business Analyst,4,Apprenticeship,Bern,nlp;spark,95188.0
+Software Developer,5,Apprenticeship,Remote CH,nlp;project management;java;sql;cloud,119578.0
+Data Scientist,2,Master,Zurich,project management;java;nlp;python;docker,137348.0
+ML Engineer,1,Master,Zurich,project management;spark;sql;cloud;machine learning;java,141963.0
+ML Engineer,9,Master,Zurich,power bi;project management;java,147541.0
+Data Engineer,15,Master,Zurich,nlp;python;docker;spark;java;sql,168644.0
+ML Engineer,5,Bachelor,Zurich,sql;spark;power bi;cloud;java,142154.0
+Software Developer,9,Master,Other CH,docker;machine learning;python;spark;sql;java,134063.0
+IT Consultant,2,Bachelor,Zurich,python;java;power bi;cloud;docker,125060.0
+ML Engineer,3,Master,Basel,python;project management;machine learning;docker;sql;nlp,149703.0
+ML Engineer,9,Master,Geneva,project management;python;machine learning,158304.0
+ML Engineer,4,Bachelor,Zurich,docker;java;sql;cloud;python,145793.0
+Business Analyst,4,Bachelor,Zurich,cloud;project management,120473.0
+Software Developer,5,Master,Zurich,cloud;python;docker,152419.0
+Business Analyst,8,Bachelor,Geneva,docker;machine learning,126538.0
+Data Engineer,2,Bachelor,Zurich,power bi;spark;java;cloud;machine learning,147354.0
+ML Engineer,3,Master,Other CH,spark;project management;java;cloud;sql,117852.0
+Data Engineer,6,Bachelor,Basel,sql;cloud,125325.0
+Data Scientist,1,Master,Bern,docker;cloud;project management;sql;power bi;java,111165.0
+Data Scientist,3,Master,Basel,machine learning;spark;power bi;project management;java,130401.0
+Business Analyst,3,Bachelor,Zurich,project management;cloud;docker;machine learning;nlp,146229.0
+Business Analyst,18,Bachelor,Remote CH,python;project management,149234.0
+Business Analyst,13,Bachelor,Zurich,project management;spark;java;sql;machine learning,160480.0
+IT Consultant,7,Bachelor,Zurich,python;project management;machine learning,143057.0
+Data Engineer,3,Apprenticeship,Zurich,nlp;python;machine learning;docker;cloud;project management,137410.0
+Business Analyst,3,Bachelor,Other CH,machine learning;project management;nlp;java,118267.0
+Data Engineer,8,Bachelor,Zurich,power bi;spark;machine learning;project management;docker;nlp,166452.0
+IT Consultant,2,Master,Remote CH,java;power bi;docker;sql;project management;cloud,147477.0
+Software Developer,4,Apprenticeship,Remote CH,project management;nlp;python;power bi;cloud;machine learning,128339.0
+IT Consultant,15,Bachelor,Bern,spark;nlp,136789.0
+Business Analyst,6,Master,Zurich,nlp;power bi;spark;machine learning;project management,126390.0
+Data Engineer,5,Bachelor,Bern,power bi;cloud,129402.0
+Business Analyst,1,Apprenticeship,Geneva,nlp;machine learning,103532.0
+Software Developer,7,Bachelor,Zurich,java;spark;power bi;sql;nlp;cloud,151771.0
+ML Engineer,5,Bachelor,Geneva,sql;nlp;machine learning,135160.0
+Business Analyst,7,Master,Other CH,docker;sql;project management;nlp,130813.0
+Data Engineer,7,Bachelor,Basel,python;machine learning,134661.0
+IT Consultant,9,Apprenticeship,Other CH,project management;java;docker;machine learning;nlp,159488.0
+Software Developer,2,Bachelor,Basel,docker;project management;nlp;python;machine learning;spark,144449.0
+Business Analyst,3,PhD,Bern,docker;project management;sql;spark;python,117699.0
+ML Engineer,18,PhD,Zurich,machine learning;cloud;python;spark,199905.0
+IT Consultant,2,Master,Zurich,cloud;project management;nlp;java;sql;python,149078.0
+Business Analyst,4,Master,Basel,cloud;sql;machine learning,138170.0
+IT Consultant,2,Master,Zurich,cloud;python;spark;machine learning,133854.0
+Software Developer,2,Master,Other CH,power bi;spark;sql;machine learning;java;docker,108482.0
+IT Consultant,6,Bachelor,Other CH,machine learning;spark;nlp;docker,125693.0
+Data Scientist,13,Master,Geneva,spark;sql;java;nlp,153507.0
+Software Developer,10,Bachelor,Bern,cloud;docker;power bi;machine learning,147043.0
+Data Scientist,4,Master,Basel,python;nlp;project management;sql,134258.0
+IT Consultant,8,Master,Other CH,nlp;python;java;machine learning;docker;sql,125316.0
+Software Developer,8,Master,Other CH,spark;python;machine learning;cloud,122234.0
+Software Developer,1,Master,Zurich,power bi;docker;sql;java,130063.0
+IT Consultant,4,Master,Zurich,nlp;java,118560.0
+IT Consultant,16,Master,Geneva,python;java,188414.0
+Data Engineer,7,Master,Other CH,python;java;spark;cloud;sql;nlp,144881.0
+IT Consultant,3,Master,Zurich,docker;sql;python;nlp;cloud,134748.0
+Data Engineer,10,Bachelor,Geneva,cloud;power bi;docker;spark;java;sql,154335.0
+Software Developer,2,Bachelor,Remote CH,spark;machine learning,123232.0
+Data Engineer,4,PhD,Other CH,sql;python,113898.0
+ML Engineer,7,Master,Bern,nlp;java;spark;python;machine learning;power bi,143296.0
+IT Consultant,5,Apprenticeship,Zurich,java;power bi;project management,114717.0
+IT Consultant,1,Apprenticeship,Geneva,power bi;machine learning;project management;cloud;spark;java,111899.0
+Business Analyst,10,Bachelor,Geneva,python;nlp,129063.0
+Business Analyst,5,Bachelor,Other CH,power bi;cloud;java,106509.0
+ML Engineer,7,Master,Zurich,docker;java;power bi;cloud,155955.0
+Data Scientist,5,Master,Remote CH,sql;machine learning;spark,126723.0
+Data Engineer,3,Master,Remote CH,machine learning;cloud;docker;java;python;spark,141169.0
+IT Consultant,5,Bachelor,Basel,python;power bi,124492.0
+Data Scientist,0,Apprenticeship,Other CH,nlp;python;cloud;sql;docker;machine learning,106074.0
+Data Scientist,3,Master,Other CH,java;nlp;python;spark,138372.0
+Data Engineer,5,Master,Basel,spark;project management;machine learning,133254.0
+ML Engineer,3,Bachelor,Zurich,spark;python;nlp;power bi;cloud;sql,135336.0
+Data Scientist,2,Bachelor,Remote CH,sql;machine learning;nlp;spark;project management;java,120134.0
+Data Engineer,1,Master,Geneva,power bi;cloud;project management;nlp;spark,114465.0
+Data Engineer,0,Bachelor,Zurich,project management;python;machine learning;java,111781.0
+Data Scientist,8,Master,Remote CH,machine learning;cloud;spark;project management;java;docker,164015.0
+IT Consultant,2,Bachelor,Remote CH,cloud;machine learning;python;nlp;java,120693.0
+IT Consultant,5,PhD,Zurich,project management;machine learning;nlp;python;docker;spark,140091.0
+IT Consultant,4,Master,Remote CH,cloud;python;nlp,141513.0
+Data Engineer,3,Bachelor,Other CH,sql;nlp,117841.0
+Data Engineer,11,Master,Zurich,project management;spark;machine learning,156831.0
+IT Consultant,1,Master,Other CH,nlp;power bi;project management;java;cloud,129966.0
+Data Scientist,6,Bachelor,Basel,power bi;project management;sql;nlp;machine learning,119011.0
+IT Consultant,5,Bachelor,Zurich,java;docker;project management,130702.0
+Data Engineer,7,Master,Zurich,python;sql;java;machine learning;spark;cloud,166505.0
+Data Engineer,14,Bachelor,Other CH,sql;java,145587.0
+IT Consultant,4,Master,Remote CH,machine learning;docker;power bi;sql;nlp;cloud,151417.0
+IT Consultant,15,Apprenticeship,Other CH,cloud;sql;machine learning,148203.0
+Business Analyst,1,Bachelor,Remote CH,docker;project management;python,117343.0
+Data Scientist,13,Master,Remote CH,python;power bi;java;spark;machine learning;sql,162238.0
+ML Engineer,8,Apprenticeship,Basel,docker;sql;project management,144035.0
+Data Scientist,6,Master,Basel,java;spark,129659.0
+Business Analyst,1,Master,Geneva,spark;nlp;power bi,108402.0
+Data Engineer,5,PhD,Remote CH,python;cloud,123693.0
+Business Analyst,2,Bachelor,Remote CH,project management;power bi;sql;spark;cloud,123421.0
+IT Consultant,7,Master,Geneva,machine learning;python;nlp,144594.0
+Data Engineer,7,PhD,Other CH,docker;power bi;sql;cloud,138363.0
+IT Consultant,1,Master,Other CH,docker;cloud;machine learning;java;sql;project management,114492.0
+Business Analyst,1,Apprenticeship,Remote CH,sql;java;project management;docker,110703.0
+IT Consultant,15,Master,Zurich,power bi;spark;python;nlp;cloud;sql,181008.0
+IT Consultant,9,Master,Other CH,project management;java;power bi,131495.0
+Data Scientist,5,Master,Remote CH,power bi;sql;docker;python,126163.0
+Business Analyst,17,Master,Bern,project management;power bi;java,151559.0
+ML Engineer,4,PhD,Remote CH,nlp;python;spark;power bi,165800.0
+Software Developer,7,Apprenticeship,Zurich,docker;machine learning;cloud;sql;python,134572.0
+Business Analyst,3,Master,Other CH,docker;power bi;cloud;sql;java,88449.0
+IT Consultant,4,Bachelor,Zurich,machine learning;project management,121499.0
+IT Consultant,17,Master,Remote CH,nlp;power bi;java;spark,163113.0
+ML Engineer,6,PhD,Zurich,cloud;spark,156406.0
+Data Engineer,10,Apprenticeship,Other CH,project management;docker;spark;java;power bi;nlp,135385.0
+Business Analyst,2,Master,Zurich,project management;power bi;sql;java,126085.0
+Data Scientist,0,Bachelor,Basel,machine learning;nlp,106064.0
+IT Consultant,17,Master,Basel,nlp;sql;project management;docker;cloud,173981.0
+ML Engineer,4,Bachelor,Zurich,sql;python;spark;power bi;cloud,151318.0
+Business Analyst,14,Bachelor,Other CH,nlp;power bi;cloud;sql,131510.0
+ML Engineer,5,Master,Remote CH,machine learning;spark;cloud;java;python;sql,145198.0
+Business Analyst,2,Master,Geneva,project management;java;machine learning;spark,123922.0
+Software Developer,1,Bachelor,Other CH,machine learning;project management;power bi;java;sql,111904.0
+IT Consultant,8,PhD,Zurich,sql;nlp;project management;power bi;machine learning,136024.0
+IT Consultant,2,Master,Remote CH,nlp;power bi;python,128099.0
+Data Engineer,7,Master,Remote CH,nlp;cloud,140305.0
+Software Developer,3,Master,Basel,sql;project management;docker;power bi,114462.0
+ML Engineer,4,Apprenticeship,Zurich,machine learning;spark;cloud;power bi;java;docker,129667.0
