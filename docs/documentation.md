@@ -4,7 +4,7 @@
 
 - Project title: Swiss Job Salary Intelligence Assistant
 - Student: Elza Miftari
-- GitHub repository URL: https://github.com/YOUR_USERNAME/swiss-salary-ai-assistant
+- GitHub repository URL: https://github.com/Elzamx/swiss-salary-ai-assistant
 - Deployment URL: https://huggingface.co/spaces/miftaelz/SwissSalary
 - Submission date: 07 June 2026
 
