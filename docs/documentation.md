@@ -101,6 +101,11 @@ See:
   - Grouped developer roles
   - Selected interpretable features for explainability
 
+  EDA Findings:
+  - Salary generally increases with years of professional experience.
+  - Cloud and data-related skills are associated with higher salaries.
+  - Senior roles show larger salary variance than junior roles.
+
 See:
 - `src/preprocess_stackoverflow.py`
 - `src/modeling.py`
