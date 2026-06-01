@@ -6,15 +6,11 @@ import joblib
 import pandas as pd
 import streamlit as st
 
-# Hugging Face Spaces runs this file from /app/app.py. Locally, the file may also
-# be run from the project root. These paths make imports and model loading robust.
 CURRENT_FILE = Path(__file__).resolve()
 PROJECT_ROOT = CURRENT_FILE.parent
 SRC_DIR = PROJECT_ROOT / "src"
 
-# Add both project root and src to Python path. This is needed for:
-# 1) importing src.nlp_explainer
-# 2) loading the joblib model, which references functions from src/modeling.py
+
 for path in [PROJECT_ROOT, SRC_DIR]:
     path_str = str(path)
     if path_str not in sys.path:
