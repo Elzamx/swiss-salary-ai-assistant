@@ -21,11 +21,14 @@ for path in [PROJECT_ROOT, SRC_DIR]:
         sys.path.insert(0, path_str)
 
 try:
-    from src.nlp_explainer import generate_explanation
+    from src.nlp_explainer import generate_explanation, get_nlp_mode
 except Exception:
     try:
-        from nlp_explainer import generate_explanation
+        from nlp_explainer import generate_explanation, get_nlp_mode
     except Exception:
+        def get_nlp_mode() -> str:
+            return "Rule-based fallback explanation"
+
         def generate_explanation(profile: dict, prediction_chf: float, metrics: dict | None = None) -> str:
             skills = str(profile.get("skills", "")).replace(";", ", ")
             return (
@@ -38,8 +41,9 @@ except Exception:
 
 st.set_page_config(page_title="Swiss Salary Intelligence Assistant", page_icon="💼", layout="centered")
 
-st.title("💼 Swiss Salary Intelligence Assistant")
-st.write("ML-Gehaltsprognose kombiniert mit NLP-Erklärung für Tech-Profile in der Schweiz.")
+st.title("Swiss Salary Intelligence Assistant")
+st.write("ML-Gehaltsprognose kombiniert mit OpenAI-gestützter NLP-Erklärung für Tech-Profile in der Schweiz.")
+st.caption(f"NLP mode: {get_nlp_mode()}. If no OpenAI key is configured, the app automatically uses a deterministic fallback.")
 
 model_path = PROJECT_ROOT / "models" / "salary_model.joblib"
 metrics_path = PROJECT_ROOT / "models" / "metrics.json"
@@ -96,6 +100,7 @@ if submitted:
     lower, upper = prediction * 0.88, prediction * 1.12
     st.write(f"Orientierende Spanne: **CHF {lower:,.0f} – CHF {upper:,.0f}**".replace(",", "'"))
     st.subheader("NLP-Erklärung")
-    st.write(generate_explanation(profile, prediction, metrics))
+    with st.spinner("Erklärung wird generiert..."):
+        st.write(generate_explanation(profile, prediction, metrics))
     with st.expander("Modellmetriken"):
         st.json(metrics)
