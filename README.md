@@ -38,49 +38,6 @@ https://huggingface.co/spaces/miftaelz/SwissSalary
 
 The app works best with an OpenAI API key.
 
-In the Hugging Face Space, go to:
-
-```text
-Settings → Variables and Secrets
-```
-
-Add this secret:
-
-```text
-OPENAI_API_KEY = your_api_key_here
-```
-
-Optional:
-
-```text
-OPENAI_MODEL = gpt-4o-mini
-```
-
-If `OPENAI_API_KEY` is missing, the app still works with the deterministic NLP fallback.
-
-## Local Setup
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-For local OpenAI usage, set the environment variable before starting the app:
-
-```bash
-export OPENAI_API_KEY="your_api_key_here"
-streamlit run app.py
-```
-
-## Repository Structure
-
-```text
-app.py                  Streamlit application
-src/                    ML and NLP logic
-models/                 trained models
-data/                   datasets
-docs/                   project documentation
-requirements.txt        Python dependencies
 ```
 
 ## Author
