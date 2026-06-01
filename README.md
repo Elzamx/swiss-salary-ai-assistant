@@ -38,7 +38,6 @@ https://huggingface.co/spaces/miftaelz/SwissSalary
 
 The app works best with an OpenAI API key.
 
-```
 
 ## Author
 
