@@ -51,13 +51,13 @@ Develop an AI-powered salary assistant that predicts annual salaries using machi
 ## 1.2 Integration Logic
 
 - How the selected blocks interact:  
-The ML model predicts the salary based on structured profile features. The NLP component receives the prediction, profile data and model information to generate personalized salary explanations and skill recommendations.
+The ML model predicts the salary based on structured profile features. The NLP component receives the prediction, profile data and model information, builds a structured prompt and uses OpenAI GPT to generate personalized salary explanations and skill recommendations. A deterministic fallback explanation is available if no API key is configured.
 
 - Data and output flow between blocks:
 
 ```text
 User Profile → Feature Preprocessing → ML Salary Prediction →
-Prediction + Model Information → NLP Explanation Layer →
+Prediction + Model Information → OpenAI Prompt + NLP Explanation Layer →
 Natural Language Feedback
 ```
 
@@ -188,7 +188,7 @@ The NLP component uses the ML outputs to generate personalized explanations.
   - Structured prompt generation
 
 - Prompt design:
-  - Dynamic insertion of:
+  - Structured OpenAI prompt with dynamic insertion of:
     - predicted salary
     - user skills
     - experience level
@@ -204,16 +204,16 @@ See:
 ## 2B.3 Approach Selection
 
 - Approach used:
+  - OpenAI GPT-based explanation generation
   - Prompt engineering
-  - Rule-based NLP explanation system
-  - Lightweight LLM-compatible architecture
+  - Deterministic rule-based fallback for reproducibility
 
 - Alternatives considered:
-  - OpenAI API integration
+  - Rule-based explanation only
   - HuggingFace Transformers
   - RAG-based retrieval systems
 
-The final implementation prioritized reproducibility and deployment simplicity.
+The final implementation uses OpenAI for the main NLP/LLM output and keeps a fallback so the deployed app remains usable even if the API key is missing or unavailable.
 
 ---
 
@@ -221,9 +221,9 @@ The final implementation prioritized reproducibility and deployment simplicity.
 
 | Iteration | Objective | Key changes | Prompt setup | Evaluation | Change vs previous |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Basic explanation | Static explanation templates | Simple prompts | Readability | Baseline |
-| 2 | Improve personalization | Added profile + metrics | Structured prompts | Better relevance | Improved |
-| 3 | Improve reliability | Added uncertainty handling | Structured + fallback prompts | Reduced hallucinations | Final version |
+| 1 | Basic explanation | Static explanation templates | Rule-based NLG | Readability | Baseline |
+| 2 | Improve personalization | Added profile + metrics | Structured prompt design | Better relevance | Improved |
+| 3 | Add LLM-based explanation | OpenAI GPT with uncertainty constraints and fallback | OpenAI GPT + rule-based fallback | Relevance, clarity and hallucination check | Final version |
 
 ---
 
@@ -235,13 +235,14 @@ The final implementation prioritized reproducibility and deployment simplicity.
   - Hallucination checks
 
 - Results:
-  - Personalized explanations improved user understanding
-  - Structured prompts reduced vague explanations
+  - OpenAI-generated explanations are more personalized and context-aware than the rule-based baseline
+  - Structured prompts reduced vague explanations and forced uncertainty statements
 
 - Error patterns and likely causes:
   - Generic recommendations for uncommon roles
-  - Limited contextual depth without large external LLM APIs
+  - Possible overconfidence in LLM wording
   - Skill ambiguity in user input
+  - API unavailability handled through deterministic fallback
 
 ---
 
@@ -253,7 +254,7 @@ The final implementation prioritized reproducibility and deployment simplicity.
   - User profile data
 
 - Outputs provided to other block(s):
-  - Human-readable explanation
+  - OpenAI-generated human-readable explanation
   - Career recommendations
   - Skill improvement suggestions
 
@@ -275,7 +276,7 @@ Not selected for this project.
 - Main user flow:
   1. User enters profile information
   2. ML model predicts salary
-  3. NLP system generates explanation
+  3. OpenAI-based NLP system generates explanation
   4. User receives salary insights and recommendations
 
 - Screenshot or short demo:
@@ -313,6 +314,7 @@ streamlit run app.py
   - Python 3.11 used
   - Fixed random seeds applied
   - Same preprocessing pipeline used during training and inference
+  - OpenAI explanations require `OPENAI_API_KEY`; without it, the app automatically uses the fallback explanation
 
 ---
 
@@ -328,6 +330,6 @@ streamlit run app.py
 Evidence for selected bonus items:
 
 - Multiple external datasets were integrated to improve realism and robustness.
-- The project combines predictive analytics with explainable AI concepts.
+- The project combines predictive analytics with OpenAI-based explainable AI concepts.
 - Bias and fairness considerations were analyzed, especially regarding location bias and self-reported salary data.
 - The application provides a complete end-to-end AI prototype with deployment and user interaction.
